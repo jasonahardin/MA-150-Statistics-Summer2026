@@ -174,7 +174,7 @@
         All course content will be presented using a series of instructor-created videos, posted to YouTube and available through MyOpenMath. 
         The videos will provide all relevant definitions, technique descriptions, and completely worked-out examples. 
         The videos in each unit will typically have a combined run time of around an hour (though this might vary a bit from unit to unit); 
-        most individual videos will be 10--12 minutes in length. You should take notes on the videos, just as you would in a lecture-based course, 
+        most individual videos will be 10-12 minutes in length. You should take notes on the videos, just as you would in a lecture-based course, 
         and use these notes when completing the problem sets and preparing for quizzes and exams. 
       </p>
     </paragraphs>
@@ -246,12 +246,12 @@
       <ul>
         <li>
           <p>
-            The midterm will be on Monday, June 8, 9:00am--11:00am. 
+            The midterm will be on Monday, June 8, 9:00am-11:00am. 
           </p>
         </li>
         <li>
           <p>
-            The cumulative final exam will be on Monday, June 29, 9:00am--12:00pm. 
+            The cumulative final exam will be on Monday, June 29, 9:00am-12:00pm. 
           </p>
         </li>
       </ul>
@@ -302,7 +302,7 @@
       <p>
         Letter grades will be assigned as follows. Grades will not be curved or rounded.
       </p>
-      <tabular>
+      <tabular bottom="medium">
         <row header="yes">
             <cell>Letter Grade</cell>
             <cell>Percent Needed</cell>
@@ -669,7 +669,6 @@
         <cell>
           <line>PS 10A:  </line>
           <line>PS 10B:  </line>
-          <line>Written HW 10</line>
         </cell>
       </row>
       <row>
