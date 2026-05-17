@@ -119,7 +119,7 @@
         This allows you to work on your own schedule and at your own pace throughout the summer session (while meeting deadlines) 
         with the ability to go back and review material as needed. 
         It is strongly encouraged you try to work on course material each day throughout the week. 
-        The course is broken up into 10 units, due on most Tuesdays and Fridays throughout the session; each unit is roughly equivalent to a full week of a normal semester. 
+        The course is broken up into 9 units, due on most Tuesdays and Fridays throughout the session; each unit is roughly equivalent to a full week of a normal semester. 
         The typical unit will cover two major topics, and will consist of the following:
       </p>
       <ul>
@@ -130,17 +130,12 @@
         </li>
         <li>
           <p>
-            Two problem sets, one for each major topic, completed on MyOpenMath. 
+            A problem set completed on MyOpenMath. 
           </p>
         </li>
         <li>
           <p>
             A timed closed-note online quiz administered on MyOpenMath will follow the even-numbered units.
-          </p>
-        </li>
-        <li>
-          <p>
-            Two data analysis labs completed using Google Sheets will be due following units BLAH and BLAH.
           </p>
         </li>
       </ul>
@@ -161,7 +156,7 @@
         A LatePass can be redeemed for an automatic 48-hour extension on an assignment (some exclusions apply, listed below); 
         to use a LatePass, click the 'Use LatePass' button next to the appropriate assignment on MyOpenMath and the platform will automatically 
         extend the due date for that assignment to 48 hours after the original due date. 
-        Each student will be given 12 LatePasses to use as they wish throughout the course, with the caveat that only one LatePass can be used on any single assignment. 
+        Each student will be given 8 LatePasses to use as they wish throughout the course, with the caveat that only one LatePass can be used on any single assignment. 
         LatePasses cannot be used on an online homework set that you view in 'Practice' mode prior to redeeming the LatePass. 
         If circumstances require a more substantial extension, contact your instructor as soon as possible to discuss this possibility; 
         documentation of the circumstances will be required. 
@@ -173,7 +168,7 @@
       <p>
         All course content will be presented using a series of instructor-created videos, posted to YouTube and available through MyOpenMath. 
         The videos will provide all relevant definitions, technique descriptions, and completely worked-out examples. 
-        The videos in each unit will typically have a combined run time of around an hour (though this might vary a bit from unit to unit); 
+        The videos in each unit will typically have a combined run time between one and two hours (though this might vary a bit from unit to unit); 
         most individual videos will be 10-12 minutes in length. You should take notes on the videos, just as you would in a lecture-based course, 
         and use these notes when completing the problem sets and preparing for quizzes and exams. 
       </p>
@@ -182,13 +177,13 @@
     <paragraphs>
       <title>Problem Sets</title>
       <p>
-        There will be two problem sets for each unit, completed in MyOpenmath. 
+        There will be a problem set for each unit, completed in MyOpenmath. 
         Problem sets are due by 11:59pm on Tuesdays and Fridays, according to the schedule at the end of this syllabus, 
         and are eligible for LatePasses when not opened in 'Practice' mode.
         Your score on each set will be considered as a percent and each set will be weighted equally when computing your problem set grade. 
         No problem set scores will be dropped. 
         The problem sets are set up so you can try most problems two times, then the correct answer will be shown. 
-        If you miss a problem and want to improve your score, you can click the 'Try a similar problem'' link, which will give you a new question of the same type. 
+        If you miss a problem and want to improve your score, you can click the 'Try a similar problem' link, which will give you a new question of the same type. 
         You can keep on working on versions of a question until you get it correct. 
         Each problem set will contain a few problems in which you will need to submit a worked out solution to a problem; 
         these problems will have only one attempt and answers will not be available until after the due date has passed. 
@@ -217,8 +212,7 @@
     <paragraphs>
       <title>Online Quizzes</title>
       <p>
-        A timed, closed-note quiz in MyOpenMath will follow the even-numbered units, and will be due by 11:59pm on the following Tuesday/Friday along with the next unit; 
-        the quiz following Unit 10 will be due on Sunday, June 28. 
+        A timed, closed-note quiz in MyOpenMath will follow the even-numbered units, and will be due by 11:59pm on the following Tuesday/Friday along with the next unit. 
         All quiz scores will be weighted equally; none will be dropped.
         You will have 60 minutes to take each quiz; once you start, you must finish within 60 minutes. 
         Once you submit your quiz in MyOpenMath, you must take pictures of or scan all relevant work you performed and submit it on MyOpenMath. 
@@ -232,8 +226,9 @@
     <paragraphs>
       <title>Data Analysis Labs</title>
       <p>
-        Two data analysis labs utilizing Google Sheets will be assigned following Units BLAH and BLAH. 
-        More details will be provided in MyOpenMath following the completion of the appropriate units.
+        A data analysis lab utilizing Google Sheets will be due on Friday, June 26. 
+        This will incorporate concepts covered throughout the course.
+        More details will be provided in MyOpenMath following the midterm exam.
       </p>
       
     </paragraphs>
@@ -279,7 +274,7 @@
                 <cell>15%</cell>
             </row>
             <row>
-              <cell>Data Analysis Labs</cell>
+              <cell>Data Analysis Lab</cell>
               <cell>5%</cell>
             </row>
             <row>
@@ -607,32 +602,21 @@
       <row>
         <cell>May 18</cell>
         <cell></cell>
-        <cell>
-          <line>PS 1A:  </line>
-          <line>PS 1B:  </line>
-        </cell>
+        <cell>Unit 1 Problem Set</cell>
       </row>
       <row>
         <cell>May 25</cell>
+        <cell>Unit 2 Problem Set</cell>
         <cell>
-          <line>PS 2A: </line>
-          <line>PS 2B: </line>
-        </cell>
-        <cell>
-          <line>PS 3A:  </line>
-          <line>PS 3B:  </line>
+          <line>Unit 3 Problem Set</line>
           <line>Quiz 1: Units 1 and 2</line>
         </cell>
       </row>
       <row>
         <cell>June 1</cell>
+        <cell>Unit 4 Problem Set</cell>
         <cell>
-          <line>PS 4A: </line>
-          <line>PS 4B: </line>
-        </cell>
-        <cell>
-          <line>PS 5A:  </line>
-          <line>PS 5B:  </line>
+          <line>Unit 5 Problem Set</line>
           <line>Quiz 2: Units 3 and 4</line>
         </cell>
       </row>
@@ -642,40 +626,28 @@
           <line><alert>Midterm (Mon 6/8)</alert></line>
           <line>9:00am - 11:00am, Sullivan 136</line>
         </cell>
-        <cell>
-          <line>PS 6A:  </line>
-          <line>PS 6B:  </line>
-        </cell>
+        <cell>Unit 6 Problem Set</cell>
       </row>
       <row>
         <cell>June 15</cell>
         <cell>
-          <line>PS 7A: </line>
-          <line>PS 7B: </line>
+          <line>Unit 7 Problem Set</line>
           <line>Quiz 3: Units 5 and 6</line>
         </cell>
-        <cell>
-          <line>PS 8A:  </line>
-          <line>PS 8B:  </line>
-        </cell>
+        <cell>Unit 8 Problem Set</cell>
       </row>
       <row>
         <cell>June 22</cell>
         <cell>
-          <line>PS 9A: </line>
-          <line>PS 9B: </line>
+          <line>Unit 9 Problem Set</line>
           <line>Quiz 4: Units 7 and 8</line>
         </cell>
-        <cell>
-          <line>PS 10A:  </line>
-          <line>PS 10B:  </line>
+        <cell>Data Analysis Lab
         </cell>
       </row>
       <row>
         <cell>June 29</cell>
         <cell>
-          <line>Quiz 5:  Units 9 and 10 (due Sun 6/28)</line>
-          <line></line>
           <line><alert>Final Exam (Mon 6/29)</alert> </line>
           <line>9:00am - 12:00pm, Sullivan 136</line>
         </cell>
